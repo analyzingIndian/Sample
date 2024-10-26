@@ -55,3 +55,5 @@ if __name__ == "__main__":
     print("\nOrder 1002 deleted. Remaining orders:")
     for order in ot.list_orders():
         print(order)
+        print(888)
+        print(999)
